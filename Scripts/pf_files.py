@@ -1,0 +1,18 @@
+import pandas as pd
+
+df = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_df')
+data_bigrams = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_data_bigrams.pickle')
+dictionary = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_dictionary.pickle')
+corpus = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_corpus.pickle')
+model_list = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_model_list')
+coherence_values = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_coherence_values')
+MALLET_model_list = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_mallet_model_list')
+MALLET_coherence_values = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_mallet_coherence_values')
+df_main_topic = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_df_main_topic')
+df_eval = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\df_eval')
+df_models = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_df_models')
+rs_rf = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_rs_rf.pickle')
+gs_sgd = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_gs_sgd.pickle')
+gs_nb = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_gs_nb.pickle')
+gs_logreg = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_gs_logreg.pickle')
+gs_svc = pd.read_pickle(r'C:\Users\Joshua\Pickle_files\pf_gs_svc.pickle')
