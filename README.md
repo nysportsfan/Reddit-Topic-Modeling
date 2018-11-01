@@ -3,11 +3,11 @@ Welcome to my Capstone Project: Topic Modeling with /r/PersonalFinance
 
 Here I have attached all the relevant components for the project:
 
-0. Project Proposal - The proposal for the capstone project.
-1. Data Wrangling - Collecting, cleaning and transforming the data.
-2. Exploratory Data Analysis - Using data visualization to investigate trends and tell a story.
-3. Machine Learning - Creating the machine learning models to predict the response variables.
-4. Milestone Report - An update report half-way into the capstone project process.
+0. Project Proposal notebook- The proposal for the capstone project.
+1. Data Wrangling notebook - Collecting, cleaning and transforming the data.
+2. Exploratory Data Analysis notebook - Using data visualization to investigate trends and tell a story.
+3. Machine Learning notebook - Creating the machine learning models to predict the response variables.
+4. Milestone Report notebook - An update report half-way into the capstone project process.
 5. Final Presentation folder - A folder containing the final abstract report and the Powerpoint presentation slides.
 6. Images folder - A folder containing the images (data visualization, pandas dataframes) used for the final presentation.
 7. Data folder - A folder containing the data used for the project.
