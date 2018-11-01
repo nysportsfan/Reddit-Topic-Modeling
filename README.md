@@ -10,6 +10,8 @@ Here I have attached all the relevant components for the project:
 4. Milestone Report - An update report half-way into the capstone project process.
 5. Final Presentation folder - A folder containing the final abstract report and the Powerpoint presentation slides.
 6. Images folder - A folder containing the images (data visualization, pandas dataframes) used for the final presentation.
+7. Data folder - A folder containing the data used for the project.
+8. Scripts folder - A folder containing the .py scripts used for the project.
 Enjoy browsing through my work and if you have any questions or suggestions, please do not hesitate to let me know.
 
 I will be updating this project on and off to add improvements to the ML models, presentation, data visualization, etc.
