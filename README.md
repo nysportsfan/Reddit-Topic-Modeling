@@ -1,5 +1,5 @@
 # Capstone Project 2
-Welcome to my Capstone Project: Topic Modeling with /r/PersonalFinance
+Welcome to my Capstone Project: Topic Modeling with Personal Finance
 
 Here I have attached all the relevant components for the project:
 
